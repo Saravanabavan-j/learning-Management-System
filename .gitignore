@@ -1,0 +1,14 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/.env
+client/.env
+.env
+coverage/
+.DS_Store
+
+# Local SQLite database files
+database/*.sqlite
+database/*.sqlite-shm
+database/*.sqlite-wal

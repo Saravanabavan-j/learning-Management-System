@@ -1,0 +1,2 @@
+-- Sample data is inserted by server/scripts/seed.js.
+-- From the server directory, run: npm run seed (after creating an admin).
